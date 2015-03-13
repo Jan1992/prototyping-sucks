@@ -88,16 +88,21 @@ body {
   }
 }
 
-.nav-pills {
+.nav-pills li {
 background-color: #cccccc;
 color: white;
 }
 
-.nav-pills:hover {
+.nav-pills li:hover {
 background-color: #ffdc00;
 color: white;
 }
 
+li .active{
+	background-color: #ffdc00;
+	color: white;
+
+}
 .afb{
   border-color: black;
   border-style: solid;
