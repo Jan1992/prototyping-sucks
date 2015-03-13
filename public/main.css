@@ -89,18 +89,18 @@ body {
 }
 
 .nav-pills li {
-background-color: #cccccc;
-color: white;
+background-color: #cccccc !important;
+color: white !important;
 }
 
 .nav-pills li:hover {
-background-color: #ffdc00;
-color: white;
+background-color: #ffdc00 !important;
+color: white !important;
 }
 
 li .active{
-	background-color: #ffdc00;
-	color: white;
+	background-color: #ffdc00 !important;
+	color: white !important;
 
 }
 .afb{
