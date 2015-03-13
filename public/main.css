@@ -88,17 +88,17 @@ body {
   }
 }
 
-.nav-pills li {
+.knop {
 background-color: #cccccc !important;
 color: white !important;
 }
 
-.nav-pills li:hover {
+.knop:hover {
 background-color: #ffdc00 !important;
 color: white !important;
 }
 
-li .active{
+knop .active{
 	background-color: #ffdc00 !important;
 	color: white !important;
 
