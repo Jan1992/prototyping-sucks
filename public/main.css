@@ -88,21 +88,16 @@ body {
   }
 }
 
-.btn {
+.nav-pills > li > a {
 background-color: #cccccc !important;
 color: white !important;
 }
 
-.btn:hover {
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
 background-color: #ffdc00 !important;
 color: white !important;
 }
 
-.btn .active{
-	background-color: #ffdc00 !important;
-	color: white !important;
-
-}
 .afb{
   border-color: black;
   border-style: solid;
