@@ -90,12 +90,12 @@ body {
 
 .nav-pills > li > a {
 background-color: #cccccc !important;
-color: white !important;
+color: black !important;
 }
 
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
 background-color: #ffdc00 !important;
-color: white !important;
+color: black !important;
 }
 
 .afb{
