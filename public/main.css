@@ -88,17 +88,17 @@ body {
   }
 }
 
-.knop {
+.btn {
 background-color: #cccccc !important;
 color: white !important;
 }
 
-.knop:hover {
+.btn:hover {
 background-color: #ffdc00 !important;
 color: white !important;
 }
 
-knop .active{
+.btn .active{
 	background-color: #ffdc00 !important;
 	color: white !important;
 
