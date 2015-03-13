@@ -52,14 +52,20 @@ De extra Home Kit garandeert een spatvrije reiniging van grote oppervlakken rond
 
       <div class="row marketing">
         <div class="col-lg-6">
-          <form>
+          <form action="/createKitten">
             <div class="form-group">
-              <label for="exampleInputEmail1">E-mail</label>
-              <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+              <label for="exampleInputEmail1">Pre-order</label>
+              <input type="email" class="form-control" id="katNameInput" name="katName" placeholder="Voer E-mail in">
             </div>
-            <button type="submit" class="btn btn-default">Reserveer</button>
+            <button type="submit" class="btn btn-default">Verstuur</button>
           </form>
+          <table id="table" class="table table-striped">
+              <thead>
+                <th>#</th>
+                <td>email</td>
+              </thead>
 
+          </table>
 
         </div>
       </div>
